@@ -1,0 +1,851 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.911587",
+                "LongITUDE": "-76.996767",
+                "Date": "1/11/2013",
+                "Address": "543 500 new York Ave NE",
+                "Offense": "ADW Other",
+                "Color": "#000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.996767,
+                    38.911587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.87256",
+                "LongITUDE": "-76.937489",
+                "Date": "1/11/2013",
+                "Address": "1500 2600 Bowen Rd SE",
+                "Offense": "Misc Report",
+                "Color": "#fefdfb"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.937489,
+                    38.87256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.89205",
+                "LongITUDE": "-76.975139",
+                "Date": "1/12/2013",
+                "Address": "42 700 21St St NE",
+                "Offense": "Simple Assault",
+                "Color": "#B83D58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.975139,
+                    38.89205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.907223",
+                "LongITUDE": "-77.01101",
+                "Date": "1/20/2013",
+                "Address": "41 North Cap and T St NW",
+                "Offense": "Misc Report Affiliate",
+                "Color": "#fefdfb"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.01101,
+                    38.907223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.96269",
+                "LongITUDE": "-77.011329",
+                "Date": "2/10/2013",
+                "Address": "2245 6200 North Dakota Ave NW",
+                "Offense": "Sex Abuse",
+                "Color": "#B83D58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.011329,
+                    38.96269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.84616",
+                "LongITUDE": "-76.995899",
+                "Date": "2/14/2013",
+                "Address": "1110 427 Lebaum St SE",
+                "Offense": "Simple Assault",
+                "Color": "#B83D58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.995899,
+                    38.84616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.89751",
+                "LongITUDE": "-76.942579",
+                "Date": "2/19/2013",
+                "Address": "1800 4900 Foote St NE",
+                "Offense": "Towing Complaint",
+                "Color": "#fefdfb"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.942579,
+                    38.89751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.900188",
+                "LongITUDE": "-76.984956",
+                "Date": "2/22/2013",
+                "Address": "1440 1300 H St NE",
+                "Offense": "Simple Assault",
+                "Color": "#B83D58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.984956,
+                    38.900188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.878248",
+                "LongITUDE": "-77.00897",
+                "Date": "2/23/2013",
+                "Address": "1010 3800 South Capital St SE",
+                "Offense": "ADW Knife",
+                "Color": "#914BC3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.00897,
+                    38.878248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.90642",
+                "LongITUDE": "-77.005859",
+                "Date": "3/4/2013",
+                "Address": "200 33 Patterson St NE",
+                "Offense": "ADW Other CIC report 5 501",
+                "Color": "#914BC3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.005859,
+                    38.90642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.90614",
+                "LongITUDE": "-76.985049",
+                "Date": "3/5/2013",
+                "Address": "2320 1200 Holbrook Ter NE",
+                "Offense": "Robbery Knife CIC report 5 506",
+                "Color": "#a46537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.985049,
+                    38.90614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.89037",
+                "LongITUDE": "-77.031959",
+                "Date": "3/7/2013",
+                "Address": "230 Unknown Q ST NW",
+                "Offense": "Simple Assault",
+                "Color": "#B83D58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.031959,
+                    38.89037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.839641",
+                "LongITUDE": "-76.98949",
+                "Date": "3/8/2013",
+                "Address": "1215 2006 Mississippi Ave SE",
+                "Offense": "Death Report Phone Call 7 704",
+                "Color": "#000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.98949,
+                    38.839641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.90987",
+                "LongITUDE": "-76.987688",
+                "Date": "3/9/2013",
+                "Address": "1700 1800 Capitol Ave NE",
+                "Offense": "Robbery While Armed",
+                "Color": "#a46537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.987688,
+                    38.90987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.912771",
+                "LongITUDE": "-77.045361",
+                "Date": "3/10/2013",
+                "Address": "1700 4400 Connecticut Ave NW",
+                "Offense": "ADW Other",
+                "Color": "#914BC3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.045361,
+                    38.912771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.88967",
+                "LongITUDE": "-76.937499",
+                "Date": "3/17/2013",
+                "Address": "0327 4837 Benning Rd SE",
+                "Offense": "Misc Report",
+                "Color": "#fefdfb"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.937499,
+                    38.88967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.872679",
+                "LongITUDE": "-76.977338",
+                "Date": "3/17/2013",
+                "Address": "1430 19th and I ST NE",
+                "Offense": "ADW Other Citywide 5 507",
+                "Color": "#914BC3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.977338,
+                    38.872679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.911342",
+                "LongITUDE": "-77.044883",
+                "Date": "3/17/2013",
+                "Address": "1630 20th and I ST NE",
+                "Offense": "Other",
+                "Color": "#fefdfb"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.044883,
+                    38.911342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.900184",
+                "LongITUDE": "-76.978447",
+                "Date": "3/20/2013",
+                "Address": "1737 800 H St NE",
+                "Offense": "Threat/Simple Assault HATE",
+                "Color": "#B83D58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.978447,
+                    38.900184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.957367",
+                "LongITUDE": "-76.991812",
+                "Date": "3/22/2013",
+                "Address": "0634 950 Eastern Ave NE",
+                "Offense": "Disorderly Conduct",
+                "Color": "#265373"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.991812,
+                    38.957367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.909751",
+                "LongITUDE": "-77.016159",
+                "Date": "3/25/2013",
+                "Address": "1500 4th and Peabody NW",
+                "Offense": "Robbery",
+                "Color": "#a46537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.016159,
+                    38.909751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.90606",
+                "LongITUDE": "-76.935809",
+                "Date": "3/25/2013",
+                "Address": "1835 800 46th St NE",
+                "Offense": "Simple Assault",
+                "Color": "#B83D58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.935809,
+                    38.90606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.901606",
+                "LongITUDE": "-77.02578",
+                "Date": "3/29/2013",
+                "Address": "2300 Captial and Central Ave",
+                "Offense": "Robbery",
+                "Color": "#a46537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.02578,
+                    38.901606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.95289",
+                "LongITUDE": "-77.030092",
+                "Date": "3/31/2013",
+                "Address": "1300 300 Hamilton St NW",
+                "Offense": "Family Disturbance Walk In 4 405",
+                "Color": "#79D289"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.030092,
+                    38.95289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.88967",
+                "LongITUDE": "-76.937499",
+                "Date": "4/2/2013",
+                "Address": "315 4600 Benning Rd SE",
+                "Offense": "Information",
+                "Color": "#fefdfb"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.937499,
+                    38.88967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.891413",
+                "LongITUDE": "-77.002016",
+                "Date": "4/7/2013",
+                "Address": "145 1100 3rd ST NE",
+                "Offense": "Robbery While Armed",
+                "Color": "#a46537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.002016,
+                    38.891413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.89037",
+                "LongITUDE": "-77.031959",
+                "Date": "4/10/2013",
+                "Address": "139 1st / K ST NE",
+                "Offense": "ADW Gun",
+                "Color": "#914BC3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.031959,
+                    38.89037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.896428",
+                "LongITUDE": "-77.023942",
+                "Date": "4/10/2013",
+                "Address": "520 900 9th ST NW",
+                "Offense": "Robbery",
+                "Color": "#a46537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.023942,
+                    38.896428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.94302",
+                "LongITUDE": "-77.057989",
+                "Date": "4/11/2013",
+                "Address": "1422 3003 Van Ness ST NW",
+                "Offense": "ADW Knife",
+                "Color": "#914BC3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.057989,
+                    38.94302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.9371",
+                "LongITUDE": "-77.032749",
+                "Date": "4/14/2013",
+                "Address": "0006 14th and Spring Rd NW",
+                "Offense": "Simple Assault",
+                "Color": "#B83D58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.032749,
+                    38.9371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.912612",
+                "LongITUDE": "-77.014401",
+                "Date": "4/15/2013",
+                "Address": "230 1440 R ST NW",
+                "Offense": "Simple Assault DV",
+                "Color": "#B83D58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.014401,
+                    38.912612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.89037",
+                "LongITUDE": "-77.031959",
+                "Date": "4/24/2013",
+                "Address": "1700 Wagner St SE/ Skyland Pl SE",
+                "Offense": "ADW Car Duty Phone 7 701",
+                "Color": "#914BC3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.031959,
+                    38.89037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.88967",
+                "LongITUDE": "-76.937499",
+                "Date": "4/25/2013",
+                "Address": "0412 4200 Benning Rd SE",
+                "Offense": "Theft 2",
+                "Color": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.937499,
+                    38.88967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.89315",
+                "LongITUDE": "-77.031949",
+                "Date": "5/12/2013",
+                "Address": "0200 3600 14th St NW",
+                "Offense": "Robbery Snatch",
+                "Color": "#a46537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.031949,
+                    38.89315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.891087",
+                "LongITUDE": "-76.942581",
+                "Date": "5/13/2013",
+                "Address": "0013 100 42nd ST NE",
+                "Offense": "Family Disturbance Emai 6 603",
+                "Color": "#79D289"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.942581,
+                    38.891087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.91647",
+                "LongITUDE": "-77.042265",
+                "Date": "5/13/2013",
+                "Address": "1830 700 Florida Ave NW",
+                "Offense": "Robbery F&V",
+                "Color": "#a46537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.042265,
+                    38.91647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.925578",
+                "LongITUDE": "-76.991152",
+                "Date": "5/13/2013",
+                "Address": "1132 1200 Franklin St NE",
+                "Offense": "Threats",
+                "Color": "#565C1F"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.991152,
+                    38.925578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.93577",
+                "LongITUDE": "-77.030859",
+                "Date": "6/11/2013",
+                "Address": "0200 1300 Perry Pl NW",
+                "Offense": "Robbery",
+                "Color": "#a46537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.030859,
+                    38.93577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.88698",
+                "LongITUDE": "-76.918629",
+                "Date": "6/16/2013",
+                "Address": "2011 22 57th St SE",
+                "Offense": "Death Report",
+                "Color": "#000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.918629,
+                    38.88698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.89037",
+                "LongITUDE": "-77.031959",
+                "Date": "6/18/2013",
+                "Address": "0406 700 block Eastern Ave NE",
+                "Offense": "ADW Other",
+                "Color": "#914BC3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.031959,
+                    38.89037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.9096",
+                "LongITUDE": "-76.940259",
+                "Date": "6/21/2013",
+                "Address": "1800 200 44th St NE",
+                "Offense": "Robbery CIC",
+                "Color": "#a46537"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.940259,
+                    38.9096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.85931",
+                "LongITUDE": "-76.995199",
+                "Date": "6/21/2013",
+                "Address": "0058 3000 Stanton Rd SE",
+                "Offense": "AWIK",
+                "Color": "#fefdfb"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.995199,
+                    38.85931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.957367",
+                "LongITUDE": "-76.991812",
+                "Date": "6/26/2013",
+                "Address": "0345 400 Eastern Ave NE",
+                "Offense": "Robbery Gun Hate/Bias",
+                "Color": "#B83D58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.991812,
+                    38.957367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.83096",
+                "LongITUDE": "-76.992679",
+                "Date": "6/26/2013",
+                "Address": "1740 100 Atlantic St SE",
+                "Offense": "Sick Person",
+                "Color": "#20605A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.992679,
+                    38.83096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.89037",
+                "LongITUDE": "-77.031959",
+                "Date": "6/26/2013",
+                "Address": "0430 5500 NH Burroughs Ave NE",
+                "Offense": "ADW Other",
+                "Color": "#914BC3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.031959,
+                    38.89037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.91012",
+                "LongITUDE": "-76.931389",
+                "Date": "6/27/2013",
+                "Address": "0445 Minnesota Ave & Eastern Ave NE",
+                "Offense": "Misc Report",
+                "Color": "#fefdfb"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.931389,
+                    38.91012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "latitude": "38.957367",
+                "LongITUDE": "-76.991812",
+                "Date": "6/27/2013",
+                "Address": "0530 500 Eastern Ave NE",
+                "Offense": "ADW Gun",
+                "Color": "#914BC3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.991812,
+                    38.957367
+                ]
+            }
+        }
+    ]
+}
