@@ -9,7 +9,8 @@
                 "Date": "1/11/2013",
                 "Address": "543 500 new York Ave NE",
                 "Offense": "ADW Other",
-                "Color": "#000000"
+                 }
+  "style":{    "Color": "#000000" }
             },
             "geometry": {
                 "type": "Point",
@@ -225,7 +226,8 @@
                 "Date": "3/8/2013",
                 "Address": "1215 2006 Mississippi Ave SE",
                 "Offense": "Death Report Phone Call 7 704",
-                "Color": "#000000"
+                 }
+  "style":{    "Color": "#000000" }
             },
             "geometry": {
                 "type": "Point",
@@ -693,7 +695,8 @@
                 "Date": "6/16/2013",
                 "Address": "2011 22 57th St SE",
                 "Offense": "Death Report",
-                "Color": "#000000"
+                 }
+  "style":{    "Color": "#000000" }
             },
             "geometry": {
                 "type": "Point",
